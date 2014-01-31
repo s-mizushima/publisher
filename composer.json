@@ -3,7 +3,7 @@
     "description": "Social Publisher SDK",
     "keywords": ["publish","mizushima","shogo","hulk","honey marketing", "sdk"],
     "type": "library",
-    "homepage": "https://github.com/facebook/facebook-php-sdk",
+    "homepage": "https://github.com/s-mizushima/publisher.git",
     "license": "Apache2",
     "authors": [
         {
